@@ -5,7 +5,7 @@ export const StoryCardView = ({story, style}) => {
     
     return (
         <View style={[styles.container, style]}>
-            <ImageBackground source={require('../../assets/artworks/artwork_1.png')} style={styles.imageBackground}
+            <ImageBackground source={require('../assets/artworks/artwork_1.png')} style={styles.imageBackground}
             imageStyle={styles.imageStyle}>
                 <View style={styles.content}>
                     <Text style={styles.artist}>Artist: {story.artistName}</Text>
