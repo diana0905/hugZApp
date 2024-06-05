@@ -1,0 +1,146 @@
+.XOX-homescreen {
+  background-color: #000000;
+  height: 852px;
+  overflow: hidden;
+  position: relative;
+  width: 393px;
+}
+
+.XOX-homescreen .navigationbar-bottom {
+  background-color: #141414;
+  border-radius: 30px;
+  box-shadow: inset 0px 0px 4px #57575740;
+  height: 115px;
+  left: -58px;
+  position: absolute;
+  top: 780px;
+  width: 504px;
+}
+
+.XOX-homescreen .add-story {
+  height: 18px !important;
+  left: 246px !important;
+  position: absolute !important;
+  top: 23px !important;
+  width: 18px !important;
+}
+
+.XOX-homescreen .profile-instance {
+  height: 20px !important;
+  left: 391px !important;
+  position: absolute !important;
+  top: 25px !important;
+  width: 20px !important;
+}
+
+.XOX-homescreen .home {
+  height: 19px;
+  left: 100px;
+  position: absolute;
+  top: 23px;
+  width: 19px;
+}
+
+.XOX-homescreen .scrollbar-threads {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  justify-content: center;
+  left: 0;
+  overflow-x: scroll;
+  position: absolute;
+  top: 733px;
+  width: 393px;
+}
+
+.XOX-homescreen .platzhalter {
+  align-items: center;
+  border-radius: 20px;
+  display: flex;
+  gap: 9px;
+  justify-content: center;
+  opacity: 0;
+  padding: 3px 5px;
+  position: relative;
+  width: 5px;
+}
+
+.XOX-homescreen .kicker {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  margin-left: -5px;
+  margin-right: -5px;
+  position: relative;
+  width: 5px;
+}
+
+.XOX-homescreen .text-wrapper {
+  color: #ffffff;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+  line-height: 16.8px;
+  margin-right: -62px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.XOX-homescreen .thread {
+  align-items: center;
+  border-radius: 20px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 9px;
+  justify-content: center;
+  padding: 3px 10px;
+  position: relative;
+}
+
+.XOX-homescreen .div-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  position: relative;
+}
+
+.XOX-homescreen .div {
+  color: #ffffff;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.XOX-homescreen .kicker-wrapper {
+  align-items: center;
+  background-color: #292929;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 20px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 9px;
+  justify-content: center;
+  padding: 3px 10px;
+  position: relative;
+}
+
+.XOX-homescreen .swipe-content {
+  background-image: url(./content.png);
+  background-size: 100% 100%;
+  height: 655px;
+  left: 14px;
+  position: absolute;
+  top: 54px;
+  width: 366px;
+}

@@ -1,0 +1,68 @@
+{ 
+    "data": [
+        {
+            "title": "I Wish I Could Be Someone Else",
+            "description": "Every day I wake up wishing I could be someone else. Someone prettier, smarter, more confident. \n\nSomeone who doesn't have all these flaws and insecurities. I look in the mirror and all I see are imperfections staring back at me. I wish I could love myself, but I don't know how. So I put on a mask and pretend to be someone I'm not, hoping that one day I'll wake up and truly be happy with the person I see in the mirror.",
+            "artworkPath": "../../assets/artworks/artwork_1.png", 
+            "artistName": "Mingle Aura",
+            "publishDate": "2024-05-30",
+            "category": "Self-Love"
+        },
+        {
+            "title": "A Small Triumph",
+            "description": "Today, I'm overjoyed because I managed to exercise. Compared to others, it might not be a big achievement, but for me, it was a huge victory. I realized that I'm happier when I don't compare myself to others and focus on what makes me happy. This small triumph showed me that my own successes matter, no matter how small they seem. Today, I am proud of myself and feel strong.",
+            "artworkPath": "../../assets/artworks/artwork_2.png", 
+            "artistName": "Pablo Edvard",
+            "publishDate": "2024-05-30",
+            "category": "Motivation"
+        },
+        {
+            "title": "Sample Story",
+            "description": "Today, I had a breakthrough while standing in front of the mirror, brushing my teeth. For years, I've been my own harshest critic, magnifying every mistake and flaw. This morning, however, I felt an urge to embrace self-compassion. I sat with my journal and wrote about moments of kindness I've shown to others. It struck me how easily I could be compassionate to others but not to myself.\n\nI decided to write a letter to myself, acknowledging my efforts and forgiving my shortcomings. As the words flowed, a weight lifted from my shoulders, replaced by a warm sense of acceptance. Embracing self-compassion meant recognizing my worth despite imperfections. I promised to practice this kindness regularly, being patient with my growth. For the first time in a long while, I looked at my reflection and smiled, feeling that I was enough just as I am.",
+            "artworkPath": "../../assets/artworks/artwork_1.png", 
+            "artistName": "Pablo Edvard",
+            "publishDate": "2024-05-30",
+            "category": "Stress Relief"
+        },
+        {
+            "title": "Sample Story",
+            "description": "This is a sample story description.",
+            "artworkPath": "../../assets/artworks/artwork_1.png", 
+            "artistName": "Mingle Aura",
+            "publishDate": "2024-05-30",
+            "category": "Mindfulness"
+        },
+        {
+            "title": "Sample Story",
+            "description": "This is a sample story description.",
+            "artworkPath": "../../assets/artworks/artwork_1.png", 
+            "artistName": "Mingle Aura",
+            "publishDate": "2024-05-30",
+            "category": "Positivity"
+        },
+        {
+            "title": "Sample Story",
+            "description": "This is a sample story description.",
+            "artworkPath": "../../assets/artworks/artwork_2.png", 
+            "artistName": "Mingle Aura",
+            "publishDate": "2024-05-30",
+            "category": "Connection"
+        },
+        {
+            "title": "Sample Story",
+            "description": "This is a sample story description.",
+            "artworkPath": "../../assets/artworks/artwork_1.png", 
+            "artistName": "Mingle Aura",
+            "publishDate": "2024-05-30",
+            "category": "Well-being"
+        },
+        {
+            "title": "Sample Story",
+            "description": "This is a sample story description.",
+            "artworkPath": "../../assets/artworks/artwork_1.png", 
+            "artistName": "Mingle Aura",
+            "publishDate": "2024-05-30",
+            "category": "Well-being"
+        }
+    ]
+}
