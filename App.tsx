@@ -1,9 +1,9 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator, BottomTabNavigationOptions } from '@react-navigation/bottom-tabs';
-import { HomeIcon, AddIcon, ProfileIcon } from './assets/icons';
-import {HomeView} from './Views/HomeScreen/HomeView';  // Importing HomeView.js
-import TemplateView from './Views/TemplateScreen/TemplateView';
+import { HomeIcon, AddIcon, ProfileIcon } from './src/assets/icons';
+import TemplateView from './src/screens/TemplateView';
+import { HomeView } from './src/screens/HomeView';
 
 const Tab = createBottomTabNavigator();
 

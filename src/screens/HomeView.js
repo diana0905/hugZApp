@@ -1,4 +1,3 @@
-// screens/HomeScreen.js
 import React, { useState }  from 'react';
 import { View, ScrollView, Text, StyleSheet, TouchableOpacity, Dimensions } from 'react-native';
 import {StoryCardView} from './StoryCardView';
